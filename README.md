@@ -7,8 +7,6 @@
 
 A content-only markdown skill package that turns short, raw image ideas into structured, enriched prompts for GPT Image 2-style image generation. The skill preserves the user's core intent, adds only compatible visual detail, chooses a suitable aspect ratio, and emits a fixed generation-ready prefix.
 
-> Current-reference note checked June 3, 2026: OpenAI's public image-generation docs list the GPT Image family with `gpt-image-1.5` as the latest API image model, while this repository intentionally remains a prompt-only “GPT Image 2” skill with no runtime API dependency.
-
 ## Contents
 
 ```text
